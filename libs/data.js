@@ -18,4 +18,4 @@ let recipes = [
 // My simulated database; recipe data.
 
 // Below is exporting the data, CommonJS syntax.
-module.exports = recipes;
+export default recipes;
